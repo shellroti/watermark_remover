@@ -1,4 +1,4 @@
 Requirement -
 PyPDF2
 
-not exactly sure if it still works
+ not sure if it will work for you.
